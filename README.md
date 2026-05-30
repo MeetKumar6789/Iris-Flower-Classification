@@ -80,6 +80,6 @@ This project successfully classified Iris flowers into their respective species 
 
 ## Author
 
-Parth Mavani
+Meet Nakarani
 
 CODSOFT Data Science Internship
